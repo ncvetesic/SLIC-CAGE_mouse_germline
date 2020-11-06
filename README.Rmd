@@ -1,8 +1,11 @@
 ---
-title: "Global regulatory transitions at core promoters demarcate the mammalian germline cycle"
+title: Global regulatory transitions at core promoters demarcate the mammalian germline
+  cycle
 author: "Nevena Cvetesic"
 date: "06/11/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}

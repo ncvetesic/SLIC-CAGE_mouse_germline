@@ -34,11 +34,11 @@ conserved feature of the vertebrate life cycle.
 
 ## Package requirements
 
-  - Install following R packages from CRAN: 
-    dplyr\_0.8.4, RColorBrewer\_1.1-2, ggseqlogo\_0.1, ggplot2\_3.2.1, corrplot\_0.84
+  - Install the following R packages from CRAN:   
+  dplyr\_0.8.4, RColorBrewer\_1.1-2, ggseqlogo\_0.1, ggplot2\_3.2.1, corrplot\_0.84
 
-  - Install following R packages from Bioconductor: 
-    CAGEr\_1.20.0,BSgenome\_1.52.0, BSgenome.Mmusculus.UCSC.mm10\_1.4.0,
+  - Install the following R packages from Bioconductor:  
+  CAGEr\_1.20.0, BSgenome\_1.52.0, BSgenome.Mmusculus.UCSC.mm10\_1.4.0,
     rtracklayer\_1.44.4, Biostrings\_2.52.0, org.Mm.eg.db\_3.8.2,
     TxDb.Mmusculus.UCSC.mm10.knownGene\_3.4.7,GenomicFeatures\_1.36.4,
     AnnotationDbi\_1.46.1, Biobase\_2.44.0, ChIPseeker\_1.20.0,
@@ -48,4 +48,5 @@ conserved feature of the vertebrate life cycle.
 
 ## Figure to code map
 
-  - Figure 1 [C](analysis/01_CTSS_expression_correlation.R)
+  - Figure 1[C](analysis/01_CTSS_expression_correlation.R)
+  - Figure 1[D](analysis/02_CTSS_PCA.R)

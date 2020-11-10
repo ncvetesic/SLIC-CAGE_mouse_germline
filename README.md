@@ -62,7 +62,9 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
   - Extended Data Figure 2[D](analysis/12_promoter_genomic_locations.R)
   - Extended Data Figure 2[E,F](analysis/13_CTSS_PCA.R)
   - Extended Data Figure 3[A-D](analysis/14_distance_annotation.R)
-  - Extended Data Figure 4[A,B](analysis/15_GO_enrichment.R)
+  - Extended Data Figure 4[A,B](analysis/15_GO_enrichment.R), 12[A,B](analysis/15_GO_enrichment.R)
+  - Extended Data Figure 4[C](analysis/16_GC_promoter_content.R), 12[C](analysis/16_GC_promoter_content.R)
+  - 
 
  
 ## Other code  

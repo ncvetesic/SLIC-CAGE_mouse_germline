@@ -55,7 +55,8 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
 
 ### Extended Data Figures
   - Extended Data Figure 1[A](analysis/09_IQwidth_distribution.R)
-  - Extended Data Figure 1[B](analysis/09_IQwidth_distribution_boxplot.R)
+  - Extended Data Figure 1[B](analysis/10_IQwidth_distribution_boxplot.R)
+  - Extended Data Figure 1[C](analysis/11_narrow_broad_promoters_no.R)
  
 ## Other code  
   - general processing of CAGE libraries starting from [bam files](analysis/CAGE_processing.R)

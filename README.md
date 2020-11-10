@@ -28,11 +28,12 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
   - Figure 1[D](analysis/02_CTSS_PCA.R)
   - Figure 2[B](analysis/03_domTSS_distr_distribution.R)
   - Figure 2[C-F](analysis/04_heatmaps.R), 3[B,C](analysis/04_heatmaps.R), 4[D,F,G](analysis/04_heatmaps.R)
-  - Figure 2[G](analysis/05_TBPpwm_match_distribution.R), 3[E](analysis/05_TBPpwm_match_distribution.R)  
-  - Figure 2[J](analysis/06_Wbox_stretch_length.R)
+  - Figure 2[G](analysis/05_TBPpwm_match_distribution.R), 3[A,E](analysis/05_TBPpwm_match_distribution.R)  
+  - Figure 2[H](analysis/06_seqlogos.R), 3[D](analysis/06_seqlogos.R)
+  - Figure 2[J](analysis/07_Wbox_stretch_length.R)
   
 ## Other code  
 
   - identifying [shifting promoters](analysis/shifting_promoters.R)
-  - zebrafish [CAGE data](analysis/zebrafish_CAGE.R)
+  - zebrafish [shifting promoters](analysis/zebrafish_CAGE_shifts.R)
 

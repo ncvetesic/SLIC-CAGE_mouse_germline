@@ -11,18 +11,38 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
 ## Package requirements
 
   - Install the following R packages from CRAN:   
-  dplyr\_0.8.4, RColorBrewer\_1.1-2, ggseqlogo\_0.1, ggplot2\_3.2.1, corrplot\_0.84
-
+    - dplyr_0.8.4
+    - RColorBrewer_1.1-2
+    - ggseqlogo_0.1 
+    - ggplot2_3.2.1
+    - corrplot_0.84
+    - seqinr_3.6-1  
+     \ 
   - Install the following R packages from Bioconductor:  
-  CAGEr\_1.20.0, BSgenome\_1.52.0, BSgenome.Mmusculus.UCSC.mm10\_1.4.0,
-    rtracklayer\_1.44.4, Biostrings\_2.52.0, org.Mm.eg.db\_3.8.2,
-    TxDb.Mmusculus.UCSC.mm10.knownGene\_3.4.7,GenomicFeatures\_1.36.4,
-    AnnotationDbi\_1.46.1, Biobase\_2.44.0, ChIPseeker\_1.20.0,
-    TFBSTools\_1.22.0, heatmaps\_1.8.0, Gviz\_1.29.1,
-    GenomicRanges\_1.36.1, GenomeInfoDb\_1.20.0, IRanges\_2.18.3,
-    BiocGenerics\_0.30.0, DESeq2\_1.24.0, seqPattern\_1.16.0
-
+    - CAGEr_1.20.0
+    - BSgenome_1.52.0
+    - BSgenome.Mmusculus.UCSC.mm10_1.4.0,
+    - rtracklayer_1.44.4
+    - Biostrings_2.52.0
+    - org.Mm.eg.db_3.8.2,
+    - TxDb.Mmusculus.UCSC.mm10.knownGene_3.4.7
+    - GenomicFeatures_1.36.4,
+    - AnnotationDbi_1.46.1
+    - Biobase_2.44.0 
+    - ChIPseeker_1.20.0,
+    - TFBSTools_1.22.0
+    - heatmaps_1.8.0
+    - Gviz_1.29.1,
+    - GenomicRanges_1.36.1
+    - GenomeInfoDb_1.20.0
+    - IRanges_2.18.3,
+    - BiocGenerics_0.30.0 
+    - DESeq2_1.24.0
+    - seqPattern_1.16.0
+    \
+    
 ## Figure to code map
+### Main Figures
 
   - Figure 1[C](analysis/01_CTSS_expression_correlation.R)
   - Figure 1[D](analysis/02_CTSS_PCA.R)
@@ -32,7 +52,10 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
   - Figure 2[H](analysis/06_seqlogos.R), 3[D](analysis/06_seqlogos.R)
   - Figure 2[J](analysis/07_Wbox_stretch_length.R)
   - Figure 4[E](analysis/08_IQwidth_correlation.R)
-  
+
+### Extended Data Figures
+  - Extended Data Figure 1[A](analysis/09_IQwidth_distribution.R)
+ 
 ## Other code  
 
   - identifying [shifting promoters](analysis/shifting_promoters.R)

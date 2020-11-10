@@ -17,7 +17,7 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
     - ggplot2_3.2.1
     - corrplot_0.84
     - seqinr_3.6-1  
-     \ 
+      
   - Install the following R packages from Bioconductor:  
     - CAGEr_1.20.0
     - BSgenome_1.52.0
@@ -39,7 +39,7 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
     - BiocGenerics_0.30.0 
     - DESeq2_1.24.0
     - seqPattern_1.16.0
-    \
+    
     
 ## Figure to code map
 ### Main Figures

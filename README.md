@@ -52,6 +52,7 @@ conserved feature of the vertebrate life cycle.
   - Figure 1[D](analysis/02_CTSS_PCA.R)
   - Figure 2[B](analysis/03_domTSS_distr_distribution.R)
   - Figure 2[C-F](analysis/04_heatmaps.R), 3[B,C](analysis/04_heatmaps.R), 4[D,F,G](analysis/04_heatmaps.R)
+  - Figure 2[G](analysis/05_TBPpwm_match_distribution.R), 3[E](analysis/05_TBPpwm_match_distribution.R)
   
 ## Other code  
 

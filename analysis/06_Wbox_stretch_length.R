@@ -2,7 +2,7 @@
 #' ## Figure 2J
 #/*==========================================================================#*/
 # identifying W-box stretch length in mouse vs zebrafish
-# prior to this analysis zebrafish CAGE data needs to be prepared/processed - see zebrafish_CAGE.R
+# prior to this analysis zebrafish CAGE data needs to be prepared/processed - see zebrafish_CAGE_shifts.R
 
 library(seqinr)
 

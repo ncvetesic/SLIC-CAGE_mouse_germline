@@ -6,31 +6,7 @@ Nevena Cvetesic
 
 ## Abstract
 
-Core promoters integrate regulatory inputs of genes. Global dynamics of
-promoter usage can reveal systemic changes in how genomic sequence is
-interpreted by the cell. We previously discovered that early development
-in fish is associated with a genome-wide shift in how promoters are
-read: the switch from the oocyte-specific to the somatic-specific
-promoter usage observed during Zygotic Genome Activation (ZGA)
-represents one of the most dramatic instances of transcriptional
-regulatory rewiring known in the animal life cycle. However, the key
-question of how and when the oocyte-specific pattern is established in
-the germ line has been hitherto impossible to answer, as well as whether
-this switch is universal across vertebrate development. Here we report
-the first analysis of promoter dynamics and code switching in the
-mammalian germ line. Using Super Low Input Carrier-CAGE (SLIC-CAGE) we
-show that mouse germline development starts with the somatic promoter
-code, followed by a prominent switch to the maternal code during
-follicular oogenesis. The sequence features underlying the shift from
-somatic to maternal code are conserved across vertebrates, despite large
-differences in promoter nucleotide compositions. In addition, we also
-find that the promoters of gonadal germ cells diverge from the canonical
-somatic transcription initiation. This divergence is distinct from the
-promoter code used later by developing oocytes and reveals genome-wide
-promoter remodelling associated with alternative nucleosome positioning
-during early female and male germline development. Collectively, our
-findings establish promoter-level regulatory transitions as a central,
-conserved feature of the vertebrate life cycle.
+Core promoters integrate regulatory inputs of genes. Global dynamics of promoter usage can reveal systemic changes in how genomic sequence is interpreted by the cell. Here we report the first analysis of promoter dynamics and code switching in the mammalian germ line, characterising the full cycle of transitions from embryonic stem cells through germline, oogenesis, and zygotic genome activation. Using Super Low Input Carrier-CAGE (SLIC-CAGE) we show that mouse germline development starts with the somatic promoter code, followed by a prominent switch to the maternal code during follicular oogenesis. The sequence features underlying the shift from somatic to maternal code are conserved across vertebrates, despite large differences in promoter nucleotide compositions. In addition, we show that, prior to this major shift, the promoters of gonadal germ cells diverge from the canonical somatic transcription initiation. This divergence is distinct from the promoter code used later by developing oocytes and reveals genome-wide promoter remodelling associated with alternative nucleosome positioning during early female and male germline development. Collectively, our findings establish promoter-level regulatory transitions as a central, conserved feature of the vertebrate life cycle.
 
 ## Package requirements
 
@@ -52,7 +28,8 @@ conserved feature of the vertebrate life cycle.
   - Figure 1[D](analysis/02_CTSS_PCA.R)
   - Figure 2[B](analysis/03_domTSS_distr_distribution.R)
   - Figure 2[C-F](analysis/04_heatmaps.R), 3[B,C](analysis/04_heatmaps.R), 4[D,F,G](analysis/04_heatmaps.R)
-  - Figure 2[G](analysis/05_TBPpwm_match_distribution.R), 3[E](analysis/05_TBPpwm_match_distribution.R)
+  - Figure 2[G](analysis/05_TBPpwm_match_distribution.R), 3[E](analysis/05_TBPpwm_match_distribution.R)  
+  - Figure 2[J](analysis/06_Wbox_stretch_length.R)
   
 ## Other code  
 

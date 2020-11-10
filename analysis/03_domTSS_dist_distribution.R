@@ -2,7 +2,7 @@
 #' ## Figure 2B
 #/*==========================================================================#*/
 # Distribution of distances between shifted dominant TSSs
-# Shifting promoters have to be called first and domTSS distances calculated - see calling_shifting_promoters.R
+# Shifting promoters have to be called first and domTSS distances calculated - see shifting_promoters.R
 
   domTSS_all_vs_E14_mESC_shift.grl <- readRDS("merged_replicates/intermediate_data/domTSS_all_vs_E14_mESC_shift_grl.RDS")
 

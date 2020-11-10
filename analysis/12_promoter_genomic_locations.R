@@ -21,7 +21,10 @@
 
 # convert to granges
   tc_PGCs_oocyte_embryo_anno.grl <- lapply(peakAnno.l, as.GRanges)
-
+  
+# save annotated granges
+  saveRDS(tc_PGCs_oocyte_embryo_anno.grl, "../all_reps_PN6_2cell/intermediate_data/tc_PGCs_oocyte_embryo_anno_grl.RDS")
+  
 # add sequence information
   for(i in 1:length(tc_PGCs_oocyte_embryo_anno.grl)) {
     seqinfo(tc_PGCs_oocyte_embryo_anno.grl[[i]]) <- seqinfo(tc_PGCs_oocyte_embryo_anno.grl[[i]])

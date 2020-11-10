@@ -34,4 +34,5 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
 ## Other code  
 
   - identifying [shifting promoters](analysis/shifting_promoters.R)
+  - zebrafish [CAGE data](analysis/zebrafish_CAGE.R)
 

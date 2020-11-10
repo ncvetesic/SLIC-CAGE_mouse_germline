@@ -50,3 +50,4 @@ conserved feature of the vertebrate life cycle.
 
   - Figure 1[C](analysis/01_CTSS_expression_correlation.R)
   - Figure 1[D](analysis/02_CTSS_PCA.R)
+  - Figure 2[B](analysis/03_domTSS_distr_distribution.R)

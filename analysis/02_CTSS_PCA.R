@@ -1,6 +1,7 @@
 #/*==========================================================================#*/
 #' ## Figure 1D
 #/*==========================================================================#*/
+# PCA plot at CTSS level using DeSEQ2
 
 # need the raw TPM values, so I need to set the normalize method to "none", recreate consensus clusters and extract TPM
 # copy myCAGEset

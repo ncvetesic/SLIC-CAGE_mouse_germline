@@ -1,5 +1,5 @@
 #/*==========================================================================#*/
-#' ## Extended Data Figure 1D
+#' ## Extended Data Figure 2D
 #/*==========================================================================#*/
 # genomic locations of tag clusters identified in each sample (tag clusters, i.e. promoters)
 

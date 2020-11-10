@@ -1,5 +1,5 @@
 #/*==========================================================================#*/
-#' ## Extended Data Figure 1C
+#' ## Extended Data Figure 2C
 #/*==========================================================================#*/
 # number of narrow and broad promoters identified in each sample
 

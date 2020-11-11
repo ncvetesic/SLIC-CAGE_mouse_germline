@@ -48,7 +48,7 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
 
   - Figure 1[C](analysis/01_CTSS_expression_correlation.R)
   - Figure 1[D](analysis/02_TC_tpm_PCA.R)
-  - Figure 2[B](analysis/03_domTSS_distr_distribution.R)
+  - Figure 2[B](analysis/03_domTSS_dist_distribution.R)
   - Figure 2[C-F](analysis/04_heatmaps.R), 3[B,C](analysis/04_heatmaps.R), 4[D,F,G](analysis/04_heatmaps.R)
   - Figure 2[G](analysis/05_TBPpwm_match_distribution.R), 3[A,E](analysis/05_TBPpwm_match_distribution.R)  
   - Figure 2[H](analysis/06_seqlogos.R), 3[D](analysis/06_seqlogos.R)

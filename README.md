@@ -20,7 +20,8 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
     - matrixStats_0.55.0
     - kohonen_3.0.10
     - stringr_1.4.0
-    - forcats_0.5.0  
+    - forcats_0.5.0 
+    - cowplot_1.0.0 
     
   - Install the following R packages from Bioconductor:  
     - CAGEr_1.20.0
@@ -69,7 +70,7 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
   - Extended Data Figure 4[A,B](analysis/15_GO_enrichment.R), 12[A,B](analysis/15_GO_enrichment.R)
   - Extended Data Figure 4[C](analysis/16_GC_promoter_content.R), 12[C](analysis/16_GC_promoter_content.R)
   - Extended Data Figure 4[D](analysis/17_tpm_distribution_shifts.R), 12[D](analysis/17_tpm_distribution_shifts.R)
-  - Extended Data Figure 4[E](analysis/18_Venn_shifts_overlap.R), 12[E](analysis/18_Venn_shifts_overlap.R)
+  - Extended Data Figure 4[E](analysis/18_Venn_shifts_overlap.R), 12[E,F](analysis/18_Venn_shifts_overlap.R)
   - Extended Data Figure 4[F](analysis/03_domTSS_dist_distribution.R)
   - Extended Data Figure 5[B,D,E](analysis/04_heatmaps.R), 6[A-D](analysis/04_heatmaps.R)
   - Extended Data Figure 7[A-D](analysis/19_tetranucleotide_composition.R)
@@ -82,7 +83,9 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
   - Extended Data Figure 9[D,F,G](analysis/04_heatmaps.R)
   - Extended Data Figure 9[E](analysis/06_seqlogos.R)
   - Extended Data Figure 10[A,B](analysis/04_heatmaps.R)
- 
+  - Extended Data Figure 11[A,B](analysis/24_somaticTSS_expression.R)
+  - Extended Data Figure 12[G](analysis/25_GGC_shifts_expression_corr.R)
+
 ## Other code  
   - general processing of CAGE libraries starting from [bam files](analysis/CAGE_processing.R)
   - identifying [shifting promoters](analysis/shifting_promoters.R)

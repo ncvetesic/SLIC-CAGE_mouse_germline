@@ -1,7 +1,7 @@
 #/*==========================================================================#*/
 #' ## Extended Data Figure 4C, 12C
 #/*==========================================================================#*/
-# GC content of shifting promoters sets
+# GC content of shifting promoters 
 
 # import data
   library(BSgenome.Mmusculus.UCSC.mm10)

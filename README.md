@@ -85,6 +85,7 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
   - Extended Data Figure 10[A,B](analysis/04_heatmaps.R)
   - Extended Data Figure 11[A,B](analysis/24_somaticTSS_expression.R)
   - Extended Data Figure 12[G](analysis/25_GGC_shifts_expression_corr.R)
+  - Extended Data Figure 12[H](analysis/26_CpG_correlation_shift_spread.R)
 
 ## Other code  
   - general processing of CAGE libraries starting from [bam files](analysis/CAGE_processing.R)

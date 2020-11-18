@@ -47,6 +47,7 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
     - seqPattern_1.16.0
     - ChIPpeakAnno_3.18.2
     - clusterProfiler_3.12.0
+    - Biostrings_2.52.0
     
     
 ## Figure to code map
@@ -91,6 +92,9 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
   - Extended Data Figure 12[J,K](analysis/28_WW_periodicity_GGC_shifts.R)
   - Extended Data Figure 12[L](analysis/29_WW_autocorrelation_GGC_shifts.R)
   - Extended Data Figure 12[M](analysis/30_WW_autocorrelation_mESC.R)
+  - Extended Data Figure 12[N](analysis/04_heatmaps.R)
+  - Extended Data Figure 13[A-D](analysis/31_pre_nucleosome_pwm.R)
+  - Extended Data Figure 13[E](analysis/32_GGC_shift_correlations.R)
 
 ## Other code  
   - general processing of CAGE libraries starting from [bam files](analysis/CAGE_processing.R)

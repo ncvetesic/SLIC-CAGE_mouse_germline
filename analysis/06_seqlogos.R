@@ -1,5 +1,5 @@
 #/*==========================================================================#*/
-#' ## Figure 2G, 3E
+#' ## Figure 2H, 3D
 #/*==========================================================================#*/
 # example code for seqologo generation - any domTSS Granges can be used, here zebrafish domTSS Granges object is used (as in Figure 2h)
 

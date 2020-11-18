@@ -1,5 +1,5 @@
 #/*==========================================================================#*/
-#' ## Figure 2G, 3E
+#' ## Figure 2G, 3A,E
 #/*==========================================================================#*/
 
 # code is the same for all graphs - different GRanges object can be used - different set of sequences and centring point

@@ -1,7 +1,7 @@
 #/*==========================================================================#*/
 #' ## Extended Data Figure 15B,C
 #/*==========================================================================#*/
-# dominant CTSS classification using SOMS - Self Organising Maps
+# WW periodicity in dominant CTSS SOM classes
 
 library(ggplot2)
 

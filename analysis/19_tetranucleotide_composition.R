@@ -13,6 +13,21 @@ library(CAGEr)
 library(ggseqlogo)
 data(TBPpwm) #TBP pwm is from CAGEr
 
+# tetramer count function
+	# define n-nucleotides in a sliding window
+		library(zoo)
+		tetramer_count <- function(seq) {
+  							pentamers.l <- lapply(seq, function(x) rollapply(x, width = 4, by = 1, FUN = c))
+  							pentamers.l <- lapply(pentamers.l, function(x) apply(x, 1, function(y) paste(y, collapse = "")))
+  							pentamers <- sort(unlist(pentamers.l))
+  							pentamers_count <- sort(table(pentamers), decreasing = TRUE)
+
+  						  # normalize pentamer count to total pentamer count
+  							pentamers_count_norm <- pentamers_count/sum(pentamers_count) * 100
+  						return(pentamers_count_norm)
+		}
+
+
 # load mouse shifting promoters centred on egg domTSS (list)
   domTSS_PGC_oocyte_embryo_vs_mESC_shift_X.grl <- readRDS("../all_reps_PN6_2cell/intermediate_data/domTSS_PGC_oocyte_embryo_vs_mESC_shift_shift_X_grl.RDS") # y is MESC E14
 

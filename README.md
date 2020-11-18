@@ -21,7 +21,8 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
     - kohonen_3.0.10
     - stringr_1.4.0
     - forcats_0.5.0 
-    - cowplot_1.0.0 
+    - cowplot_1.0.0
+    - magrittr_1.5 
     
   - Install the following R packages from Bioconductor:  
     - CAGEr_1.20.0
@@ -89,6 +90,7 @@ Core promoters integrate regulatory inputs of genes. Global dynamics of promoter
   - Extended Data Figure 12[I](analysis/27_GGC_spread_methylation.R)
   - Extended Data Figure 12[J,K](analysis/28_WW_periodicity_GGC_shifts.R)
   - Extended Data Figure 12[L](analysis/29_WW_autocorrelation_GGC_shifts.R)
+  - Extended Data Figure 12[M](analysis/30_WW_autocorrelation_mESC.R)
 
 ## Other code  
   - general processing of CAGE libraries starting from [bam files](analysis/CAGE_processing.R)

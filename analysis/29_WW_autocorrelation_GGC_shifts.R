@@ -1,7 +1,7 @@
 #/*==========================================================================#*/
-#' ## Extended Data Figure 12L, M
+#' ## Extended Data Figure 12L
 #/*==========================================================================#*/
-# Autocorrelation analyses of WW dinucleotides 
+# Autocorrelation analyses of WW dinucleotides in GGC shifts
 
 ### Autocorrelation analyses for all WW dinucleotides ---- ###
 # repeating WW extraction on [+50 to +200bp] and no smoothing, binsize = 1
